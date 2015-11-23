@@ -1,0 +1,2 @@
+# Embellecedor-de-Codigo-Lex
+Este programa en lex se ocupa de resaltar las palabras mas destacadas den- tro de un codigo en C, para ello asigna diferentes colores segun las palabras pertenezcan a un comentario, sean un numero entero, un mensaje entre comillas o palabras reservadas. Por otro lado el programa tambien reconoce las librerias usadas asi como las funciones implementadas en el codigo y crea el archivo de cabecera correspondiente,eliminando la posible redundancia que pueda existir tras la creacion del archivo de cabecera.
